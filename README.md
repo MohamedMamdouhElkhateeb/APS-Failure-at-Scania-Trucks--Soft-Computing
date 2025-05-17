@@ -1,14 +1,14 @@
 Scania Trucks APS Failure Detection
 This project focuses on detecting failures in the Air Pressure System (APS) of Scania trucks using machine learning techniques. The goal is to predict potential APS failures before they occur, helping reduce maintenance costs and increase vehicle uptime.
 
-📊 Dataset
+*📊 Dataset*
 Name: APS Failure at Scania Trucks
 
 Source: UCI Machine Learning Repository
 
 Description: The dataset contains sensor data from Scania trucks. It includes multiple features representing sensor readings and a target variable indicating whether a failure occurred.
 
-📁 Files
+*📁 Files*
 SoftComputing_Project.ipynb: Jupyter Notebook containing the full analysis and model implementation.
 
 ⚙️ Project Workflow
